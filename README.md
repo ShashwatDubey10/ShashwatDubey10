@@ -10,7 +10,7 @@ I enjoy working on both frontend and backend development, collaborating with oth
 
 Fun fact: I crush full-stack projects but really thrive when wrangling servers and deploying apps! 🚀
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,github,vscode,html,css,tailwind,bootstrap,postman,npm,linux,docker,aws,figma&perline=10" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,github,vscode,html,css,tailwind,postman,npm,linux,docker,figma&perline=10" /> </p>
 
 
 ### Socials
