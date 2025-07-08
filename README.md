@@ -1,21 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shashwat Dubey
 ======================================================================================================================================
 
-Student | Developer | Innovator
--------------------------------
+<div align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+Computer+Science+Student;MERN+Stack+Developer;Backend+Enthusiast;Full-Stack+Project+Builder;Always+Learning+New+Technologies!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /> </div> <p align="center"> 
 
-* 🌍  I'm based in Bangalore
-* ✉️  You can contact me at [i.shashwatdubey@gmail.com](mailto:i.shashwatdubey@gmail.com)
-* 🚀  I'm currently working on [Bantr Chat App](http://https://bantr-mern-chatapp-1.onrender.com/)
-* 🤝  I'm open to collaborating on open source projects, full stack web apps, and innovative tech solutions.
-* ⚡  Full-stack by trade, backend boss by passion—deployments are my playground!
+### 🚀 About Me
+I am a B.Tech Computer Science student with a solid foundation in the MERN stack and practical experience building robust full stack projects. My passion for technology drives me to create scalable web applications and continuously explore new tools and frameworks.
 
-### Skills
+I enjoy working on both frontend and backend development, collaborating with others, and contributing to open-source projects. I am committed to continuous learning and growth, always seeking opportunities to solve real-world problems and stay updated with the latest trends in tech.
 
+Fun fact: I crush full-stack projects but really thrive when wrangling servers and deploying apps! 🚀
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" title="Redux"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" title="Express"/></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" title="Oracle"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" title="Render"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,github,vscode,html,css,tailwind,bootstrap,postman,npm,linux,docker,aws,figma&perline=10" /> </p>
 
 
 ### Socials
@@ -26,12 +21,66 @@ Student | Developer | Innovator
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ShashwatDubey10"><img src="https://github-readme-stats.vercel.app/api?username=ShashwatDubey10&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShashwatDubey10's GitHub stats" /></a>
-
-<a href="http://www.github.com/ShashwatDubey10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashwatDubey10&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/ShashwatDubey10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatDubey10&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShashwatDubey10&show_icons=true&theme=radical&hide_border=true&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashwatDubey10&theme=radical&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatDubey10&layout=compact&theme=radical&hide_border=true" /> </div>
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/ShashwatDubey10/bantr-mern-chatapp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatDubey10&repo=bantr-mern-chatapp&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+### 🌱 Currently Learning
+<p align="center"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> </p>
+TypeScript - Adding type safety to JavaScript applications
+
+Next.js - Server-side rendering and modern React framework
+
+Docker & Kubernetes - Containerization and orchestration
+
+AWS Cloud Services - Cloud deployment and scalability
+
+GraphQL - Modern API development and efficient data fetching
+
+Testing Frameworks - Jest, Cypress for robust code quality
+
+### 🎯 Next on My Learning Roadmap
+<details> <summary><b>🔥 Click to see my 2024 learning goals</b></summary>
+Immediate Goals (Next 3 months)
+ Master TypeScript for full-stack development
+
+ Build projects with Next.js and server-side rendering
+
+ Deploy applications using Docker containers
+
+ Learn AWS basics (EC2, S3, Lambda)
+
+Medium-term Goals (6 months)
+ Implement GraphQL APIs in projects
+
+ Master testing with Jest and Cypress
+
+ Learn microservices architecture
+
+ Contribute to open-source projects
+
+Long-term Goals (1 year)
+ Become proficient in cloud deployment (AWS/GCP)
+
+ Explore serverless architecture
+
+ Learn basic DevOps and CI/CD
+
+ Master system design fundamentals
+
+</details>
+
+### 🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ShashwatDubey10&theme=radical&no-frame=true&no-bg=false&margin-w=4" /> </div>
+
+### 💡 What I'm Open To
+<div align="center"> <img src="https://img.shields.io/badge/🚀-Open%20Source%20Projects-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/💼-Full%20Stack%20Collaborations-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/🎯-Backend%20Challenges-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/🤝-Mentorship%20%26%20Learning-purple?style=for-the-badge" /> </div>
+
+I'm open to collaborating on: Open source projects, full stack web apps, and innovative tech solutions.
+
+Anything else: Skilled at designing, building, and optimizing robust backend systems and APIs.
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashwatDubey10&theme=react-dark&hide_border=true" width="100%"/>
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </div> <div align="center"> <i>⭐️ From <a href="https://github.com/ShashwatDubey10">ShashwatDubey10</a> - Building the future, one commit at a time!</i> </div>
