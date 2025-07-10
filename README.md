@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shashwat Dubey
 ======================================================================================================================================
 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+Computer+Science+Student;MERN+Stack+Developer;Backend+Enthusiast;Full-Stack+Project+Builder;Always+Learning+New+Technologies!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /> </div> <p align="center"> 
+<div align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Full-Stack+Project+Builder;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /> </div> <p align="center"> 
 
 ### 🚀 About Me
 I am a B.Tech Computer Science student with a solid foundation in the MERN stack and practical experience building robust full stack projects. My passion for technology drives me to create scalable web applications and continuously explore new tools and frameworks.
@@ -26,50 +26,9 @@ Fun fact: I crush full-stack projects but really thrive when wrangling servers a
 
 <div width="100%" align="center"><a href="https://github.com/ShashwatDubey10/bantr-mern-chatapp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatDubey10&repo=bantr-mern-chatapp&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-### 🌱 Currently Learning
-<p align="center"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> </p>
-TypeScript - Adding type safety to JavaScript applications
 
-Next.js - Server-side rendering and modern React framework
 
-Docker & Kubernetes - Containerization and orchestration
 
-AWS Cloud Services - Cloud deployment and scalability
-
-GraphQL - Modern API development and efficient data fetching
-
-Testing Frameworks - Jest, Cypress for robust code quality
-
-### 🎯 Next on My Learning Roadmap
-<details> <summary><b>🔥 Click to see my 2024 learning goals</b></summary>
-Immediate Goals (Next 3 months)
- Master TypeScript for full-stack development
-
- Build projects with Next.js and server-side rendering
-
- Deploy applications using Docker containers
-
- Learn AWS basics (EC2, S3, Lambda)
-
-Medium-term Goals (6 months)
- Implement GraphQL APIs in projects
-
- Master testing with Jest and Cypress
-
- Learn microservices architecture
-
- Contribute to open-source projects
-
-Long-term Goals (1 year)
- Become proficient in cloud deployment (AWS/GCP)
-
- Explore serverless architecture
-
- Learn basic DevOps and CI/CD
-
- Master system design fundamentals
-
-</details>
 
 ### 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ShashwatDubey10&theme=radical&no-frame=true&no-bg=false&margin-w=4" /> </div>
@@ -81,6 +40,3 @@ I'm open to collaborating on: Open source projects, full stack web apps, and inn
 
 Anything else: Skilled at designing, building, and optimizing robust backend systems and APIs.
 
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashwatDubey10&theme=react-dark&hide_border=true" width="100%"/>
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </div> <div align="center"> <i>⭐️ From <a href="https://github.com/ShashwatDubey10">ShashwatDubey10</a> - Building the future, one commit at a time!</i> </div>
