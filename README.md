@@ -8,7 +8,6 @@ I am a B.Tech Computer Science student with a solid foundation in the MERN stack
 
 I enjoy working on both frontend and backend development, collaborating with others, and contributing to open-source projects. I am committed to continuous learning and growth, always seeking opportunities to solve real-world problems and stay updated with the latest trends in tech.
 
-Fun fact: I crush full-stack projects but really thrive when wrangling servers and deploying apps! 🚀
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,github,vscode,html,css,tailwind,postman,npm,linux,docker,figma&perline=10" /> </p>
 
