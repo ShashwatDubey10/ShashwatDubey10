@@ -28,14 +28,3 @@ I enjoy working on both frontend and backend development, collaborating with oth
 
 
 
-
-### 🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ShashwatDubey10&theme=radical&no-frame=true&no-bg=false&margin-w=4" /> </div>
-
-### 💡 What I'm Open To
-<div align="center"> <img src="https://img.shields.io/badge/🚀-Open%20Source%20Projects-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/💼-Full%20Stack%20Collaborations-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/🎯-Backend%20Challenges-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/🤝-Mentorship%20%26%20Learning-purple?style=for-the-badge" /> </div>
-
-I'm open to collaborating on: Open source projects, full stack web apps, and innovative tech solutions.
-
-Anything else: Skilled at designing, building, and optimizing robust backend systems and APIs.
-
