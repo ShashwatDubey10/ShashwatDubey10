@@ -4,12 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Full-Stack+Project+Builder;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /> </div> <p align="center"> 
 
 ### 🚀 About Me
+
 I am a B.Tech Computer Science student with a solid foundation in the MERN stack and practical experience building robust full stack projects. My passion for technology drives me to create scalable web applications and continuously explore new tools and frameworks.
 
 I enjoy working on both frontend and backend development, collaborating with others, and contributing to open-source projects. I am committed to continuous learning and growth, always seeking opportunities to solve real-world problems and stay updated with the latest trends in tech.
 
+---
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,github,vscode,html,css,tailwind,postman,npm,linux,docker,figma&perline=10" /> </p>
+### 🗂️ Portfolio
+
+You can explore a showcase of my projects, skills, and achievements on my interactive portfolio website:
+
+**[View My Portfolio](https://shashwatdubey.vercel.app/)**
+
+---
 
 
 ### Socials
